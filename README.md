@@ -1,259 +1,256 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjan%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Full-Stack%20Developer%20%7C%20PHP%20%E2%80%A2%20WordPress%20%E2%80%A2%20Laravel%20%E2%80%A2%20MERN&descAlignY=51&descAlign=50"/>
+<!-- WAVING HEADER — same dark futuristic feel -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0a0f1e,100:00f5ff&height=200&section=header&text=SANJAN%20KUMAR&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%3E%20Senior%20Full%20Stack%20Developer%20_%20&descSize=16&descAlignY=55&descAlign=50&descFontColor=00f5ff"/>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FFFF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=PHP+%7C+Laravel+%7C+WordPress+Expert;MERN+Stack+Developer+%7C+5%2B+Years;Building+Scalable+Web+Applications+%F0%9F%9A%80;REST+APIs+%7C+CRM+%7C+Automation+Tools;Custom+WordPress+Plugins+%26+WooCommerce" alt="Typing SVG" />
-</p>
+<!-- BOOT SEQUENCE feel — typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=500&height=30&lines=%3E+Booting+system...;%3E+Loading+profile.exe;%3E+Auth%3A+VERIFIED+%E2%9C%93;%3E+Welcome+to+Sanjan%27s+Profile" />
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-00f5ff?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=101010" alt="experience"/>
-  <img src="https://img.shields.io/badge/Focus-PHP%20%7C%20Laravel%20%7C%20MERN-blueviolet?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010" alt="focus"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="status"/>
-</p>
+<br/>
+
+<!-- SUBTITLE typing — same as HTML typewriter -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=Senior+Full+Stack+Developer+%7C+PHP+%E2%80%A2+WordPress+%E2%80%A2+Laravel+%E2%80%A2+MERN;REST+API+%7C+CRM+%7C+Automation+Tools+%7C+5%2B+Years;Custom+WordPress+Plugins+%26+WooCommerce+Expert;Scalable+SaaS+%7C+Microservices+%7C+Clean+Architecture" />
+
+<br/><br/>
+
+<!-- STAT BADGES — mirrors the 3 stat cards -->
+<img src="https://img.shields.io/badge/⚡_YEARS_ACTIVE-5+-00f5ff?style=for-the-badge&labelColor=030712" />
+&nbsp;
+<img src="https://img.shields.io/badge/∞_LINES_SHIPPED-∞-39ff14?style=for-the-badge&labelColor=030712" />
+&nbsp;
+<img src="https://img.shields.io/badge/🎯_MISSION-SCALE-bf00ff?style=for-the-badge&labelColor=030712" />
 
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,100:0a0f1e&height=2&section=header"/></div>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## `⚡ ABOUT`
 
-👨‍💻 **Senior Full-Stack Developer** with **5+ years** of experience building scalable web apps
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-📍 Based in **India** 🇮🇳
+```yaml
+# profile.config.yml
+name        : "Sanjan Kumar"
+role        : "Senior Full Stack Developer"
+experience  : "5+ Years"
+status      : "Available for exciting projects 🚀"
 
-🔥 **Expert** in PHP, WordPress Custom Plugin Development & Laravel Architecture
+expertise:
+  - "PHP & WordPress Custom Plugin Dev"
+  - "Laravel Application Architecture"
+  - "MERN Stack — MongoDB, Express, React, Node"
+  - "REST API Development & Integration"
+  - "CRM, Booking & Automation Systems"
+  - "Performance, Scalability & Clean Code"
+```
 
-🌐 **MERN Stack Developer** — MongoDB, Express, React, Node.js
-
-🔌 **REST API** Development & Integration Specialist
-
-🛠️ **CRM, Booking Systems, Scrapers & Automation Tools** Developer
-
-📈 Focused on **Performance, Scalability & Clean Architecture**
-
-### 💡 What I Bring to the Table:
-
-⚙️ **Custom WordPress Plugins** — Tailored functionality beyond default limits
-
-🏗️ **Laravel Application Architecture** — Scalable & maintainable systems
-
-📊 **CRM & Booking Platforms** — Real production-ready enterprise solutions
-
-🔌 **REST API Integration** — Seamless third-party integrations
-
-🤖 **Web Scraping & Automation** — Automated data pipelines
+<br clear="right"/>
 
 ---
 
-💬 *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## `🛠 TECH STACK`
 
 <div align="center">
 
-### 🖥️ Backend Development
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+**`▸ BACKEND`**
 
-### 🎨 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=030712"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=030712"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=030712"/>
+<img src="https://img.shields.io/badge/Express.js-00f5ff?style=for-the-badge&logo=express&logoColor=030712&labelColor=030712"/>
 
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+<br/><br/>
 
-### ⚙️ CMS & Tools
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+**`▸ FRONTEND`**
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=030712&labelColor=030712"/>
+<img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=030712&labelColor=030712"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=030712"/>
+<img src="https://img.shields.io/badge/CSS3-39ff14?style=for-the-badge&logo=css3&logoColor=030712&labelColor=030712"/>
+
+<br/><br/>
+
+**`▸ DATABASE`**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=030712"/>
+<img src="https://img.shields.io/badge/MongoDB-bf00ff?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=030712"/>
+
+<br/><br/>
+
+**`▸ CMS & TOOLS`**
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=030712"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white&labelColor=030712"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=030712"/>
+<img src="https://img.shields.io/badge/REST_APIs-00f5ff?style=for-the-badge&logo=fastapi&logoColor=030712&labelColor=030712"/>
+<img src="https://img.shields.io/badge/Web_Scraping-39ff14?style=for-the-badge&logo=python&logoColor=030712&labelColor=030712"/>
+<img src="https://img.shields.io/badge/Automation-bf00ff?style=for-the-badge&logo=zapier&logoColor=white&labelColor=030712"/>
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
+## `🚀 FEATURED WORK`
 
 <div align="center">
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔌 Custom WordPress Plugin Suite
-<br/>
+### 🔌 Custom WordPress Plugins
+> Tailored functionality beyond limits
 
-**PHP • WordPress • WooCommerce**
+`PHP` `WordPress` `WooCommerce` `MySQL`
 
-Advanced custom WordPress plugins with WooCommerce integration, custom post types, REST API endpoints, and admin panel customizations.
+Advanced custom plugins with WooCommerce integration, custom post types, REST endpoints & admin customizations.
 
-**Tech:** PHP, WordPress, WooCommerce, MySQL
-
-<a href="https://github.com/sanjank97">
-  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![View](https://img.shields.io/badge/View_Project-030712?style=for-the-badge&logo=github&logoColor=00f5ff&color=030712)](https://github.com/sanjank97)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📅 Booking & Villa Management System
-<br/>
+### 📅 Booking & Villa Management
+> End-to-end management platforms
 
-**Laravel • MySQL • REST API**
+`Laravel` `MySQL` `React` `REST API`
 
-End-to-end property booking and villa management platform with calendar integration, payment gateway, and admin dashboard.
+Property booking platform with calendar integration, payment gateway & admin dashboard.
 
-**Tech:** Laravel, MySQL, React, REST API
-
-<a href="https://github.com/sanjank97">
-  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![View](https://img.shields.io/badge/View_Project-030712?style=for-the-badge&logo=github&logoColor=00f5ff&color=030712)](https://github.com/sanjank97)
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤝 Enterprise CRM System
-<br/>
+> Enterprise-grade relationship tools
 
-**MERN Stack • Role-Based Access**
+`MongoDB` `Express` `React` `Node.js`
 
-Full-featured Customer Relationship Management system with role-based access, lead tracking, automated follow-ups, and analytics dashboard.
+Full CRM with role-based access, lead tracking, automated follow-ups & analytics dashboard.
 
-**Tech:** MongoDB, Express, React, Node.js
-
-<a href="https://github.com/sanjank97">
-  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![View](https://img.shields.io/badge/View_Project-030712?style=for-the-badge&logo=github&logoColor=39ff14&color=030712)](https://github.com/sanjank97)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🕷️ Web Scraping & Automation Tool
-<br/>
+### 🕷️ Web Scraping & Automation
+> Automated data extraction pipelines
 
-**Node.js • Puppeteer • MongoDB**
+`Node.js` `Puppeteer` `MongoDB` `Express`
 
-Automated web scraping solution with scheduling, data transformation pipelines, proxy rotation, and structured data export.
+Scraping solution with scheduling, proxy rotation, data transformation & structured export.
 
-**Tech:** Node.js, Puppeteer, MongoDB, Express
+[![View](https://img.shields.io/badge/View_Project-030712?style=for-the-badge&logo=github&logoColor=bf00ff&color=030712)](https://github.com/sanjank97)
 
-<a href="https://github.com/sanjank97">
-  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ API-Based Applications
+> Seamless integrations & REST services
+
+`Node.js` `Laravel` `REST` `OAuth`
+
+Robust API integrations, third-party services, webhooks & microservice architectures.
+
+[![View](https://img.shields.io/badge/View_Project-030712?style=for-the-badge&logo=github&logoColor=00f5ff&color=030712)](https://github.com/sanjank97)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack MERN Apps
+> Scalable, modern web applications
+
+`MongoDB` `Express` `React` `Node.js`
+
+Production-ready MERN applications with auth, real-time features & cloud deployment.
+
+[![View](https://img.shields.io/badge/View_Project-030712?style=for-the-badge&logo=github&logoColor=39ff14&color=030712)](https://github.com/sanjank97)
 
 </td>
 </tr>
 </table>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjank97&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjank97&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjank97&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=39FF14&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjank97&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=39FF14" width="95%" alt="Activity Graph"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjank97/sanjank97/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjank97/sanjank97/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sanjank97/sanjank97/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🎯 Current Focus
+## `🎯 CURRENT FOCUS`
 
 ```
-[ SAAS ]  →  Scalable SaaS Applications — building for growth from day one
-[ CMS  ]  →  Advanced WordPress Architecture — custom systems that actually scale  
-[ API  ]  →  Microservices & API Optimization — faster, leaner, more resilient
+[ SAAS ]  ──►  Scalable SaaS Applications     — building for growth from day one
+[ CMS  ]  ──►  Advanced WordPress Architecture — custom systems that actually scale
+[ API  ]  ──►  Microservices & API Optimization — faster, leaner, more resilient
 ```
 
 ---
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30"> Connect With Me
+## `📊 GITHUB ANALYTICS`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjank97&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=030712&title_color=00f5ff&icon_color=39ff14&text_color=e0e8f0&ring_color=bf00ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjank97&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=030712&title_color=00f5ff&text_color=e0e8f0"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjank97&theme=dark&hide_border=true&background=030712&stroke=00f5ff&ring=00f5ff&fire=39ff14&currStreakLabel=00f5ff&sideLabels=e0e8f0&dates=e0e8f0" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjank97&theme=react-dark&hide_border=true&area=true&bg_color=030712&color=00f5ff&line=00f5ff&point=39ff14&area_color=00f5ff" width="95%"/>
+
+</div>
+
+---
+
+## `🐍 CONTRIBUTION SNAKE`
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjank97/sanjank97/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjank97/sanjank97/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/sanjank97/sanjank97/output/github-contribution-grid-snake.svg"/>
+</picture>
+</div>
+
+---
+
+## `📡 CONNECT`
 
 <div align="center">
 
 <a href="https://linkedin.com/in/sanjank97">
-  <img src="https://img.shields.io/badge/LinkedIn-Sanjan_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sanjan_Kumar-00f5ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030712"/>
 </a>
 &nbsp;
 <a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-your@email.com-39ff14?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030712"/>
 </a>
 &nbsp;
 <a href="https://github.com/sanjank97">
-  <img src="https://img.shields.io/badge/GitHub-sanjank97-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-sanjank97-bf00ff?style=for-the-badge&logo=github&logoColor=white&labelColor=030712"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjank97&label=Profile%20views&color=00f5ff&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sanjank97&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge&labelColor=030712"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💡 "First, solve the problem. Then, write the code." — John Johnson
+```
+// Always building. Always shipping. Always scaling.
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<!-- WAVING FOOTER — matches header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0a0f1e,100:030712&height=120&section=footer"/>
 
 </div>
